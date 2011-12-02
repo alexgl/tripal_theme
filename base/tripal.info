@@ -6,7 +6,7 @@ engine = phptemplate
 ;base theme = admire_gray
 
 stylesheets[all][] = css/tripal.css
-stylesheets[all][] = css/tripal_analysis_blast.css
+;stylesheets[all][] = css/tripal_analysis_blast.css
 stylesheets[all][] = css/tripal_organism.css
 
 scripts[] = js/tripal.js
